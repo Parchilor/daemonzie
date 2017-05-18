@@ -1,2 +1,2 @@
-# daemonzie
-A frame of daemonize
+# Daemonize
+> A daemonize frame
