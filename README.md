@@ -1,2 +1,2 @@
-# deamonzie
+# daemonzie
 A frame of deamonize
